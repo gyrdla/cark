@@ -1,9 +1,6 @@
 # Dişli PWA — ilk prototip
 
-## Çalıştırma
-PWA özellikleri (kurulum/çevrimdışı önbellek) için HTTPS üzerinde veya localhost'ta sunun.
-- Bilgisayarda: klasörde `python -m http.server 8000` çalıştırın ve `http://localhost:8000` adresini açın.
-- İnternete yayınlamak için GitHub Pages, Netlify veya benzeri statik barındırma kullanabilirsiniz.
+## 
 
 ## Özellikler
 - Proje/dişli türü: bitişli, sürekli, rutin
