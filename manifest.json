@@ -1,0 +1,13 @@
+{
+  "name": "Dişli — Yaşam ve Üretim Sistemi",
+  "short_name": "Dişli",
+  "description": "Projeler, görev zincirleri, rutinler ve zaman planlaması.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f4f0",
+  "theme_color": "#171a24",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
